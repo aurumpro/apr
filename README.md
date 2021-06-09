@@ -1,2 +1,2 @@
 # Aurum Pro Resources
-It Service Company
+IT Service Company
